@@ -31,23 +31,23 @@ API: MyMemory Translated.net for fetching translations.
 # Project Structure
 
 project-folder
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet
-├── script.js           # Main JavaScript file
-├── countries.js        # List of supported languages
-└── README.md           # Project documentation
+├── index.html          # Main HTML file </br>
+├── style.css           # Stylesheet </br>
+├── script.js           # Main JavaScript file </br>
+├── countries.js        # List of supported languages </br>
+└── README.md           # Project documentation </br>
 
-# Setup and Usage
+# Setup and Usage </br>
 
-# Prerequisites
+# Prerequisites </br>
  
-A modern web browser.
+A modern web browser. </br>
 
-An active internet connection to fetch translations from the API.
+An active internet connection to fetch translations from the API. </br>
 
 # Steps to Run </br>
 
-Clone or download the repository. git clone https://github.com/MuchiriKinyua/Language-And-Voice-Translator-App.git </br>
+Download or Clone the repository: git clone https://github.com/MuchiriKinyua/Language-And-Voice-Translator-App.git </br>
 
 Open the index.html file in any web browser. </br>
 
