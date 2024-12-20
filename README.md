@@ -30,7 +30,7 @@ API: MyMemory Translated.net for fetching translations.
 
 # Project Structure
 
-project-folder
+project-folder </br>
 ├── index.html          # Main HTML file </br>
 ├── style.css           # Stylesheet </br>
 ├── script.js           # Main JavaScript file </br>
