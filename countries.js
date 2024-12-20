@@ -47,6 +47,7 @@ const countries = {
     "la-VA": "Latin",
     "lo-LA": "Lao",
     "lv-LV": "Latvian",
+    "luo-KE": "Luo",
     "men-SL": "Mende",
     "mg-MG": "Malagasy",
     "mi-NZ": "Maori",
